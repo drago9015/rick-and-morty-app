@@ -1,0 +1,23 @@
+.nav {
+    display: flex;
+    margin-top: 10px;
+    padding: 15px;    
+    position: fixed;
+    margin-top: 10px;
+    background-color: #d9904748;
+    border-radius: 10px;
+    z-index: 11;
+}
+
+.navContainer{
+    
+    padding: 660px;
+
+}
+/* .navContainer :hover {
+    transform: scale(1.05);
+    box-shadow: 0px 0px 20px 1px #ff80003f;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    /* transform: rotateY(.25turn);*/
+    /* transition: 0.25s; */
+/* } */
